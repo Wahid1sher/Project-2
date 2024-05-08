@@ -28,9 +28,6 @@ This work was completed in collaboration with my colleague, **Horya Sediqi**. We
   - Remediation: Restriction of robot.txt access to authorized users.
 
 ## References
-We have adhered to OpenAI guidelines and standards while utilizing code and tools for penetration testing. All tools used in the process are mentioned in the report, including Nmap, Metasploit, hashcat, and Bloodhound.
-
-## Note on Code Sources
-- **External Code/Resources:** Any code that was sourced from external forums, courses, or colleagues is cited in the respective sections of the report and documented here for clarity.
+We have adhered to OpenAI guidelines and standards while utilizing code and tools for penetration testing.
 
 Please review the report for further details and reach out for any additional information.
